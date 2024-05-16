@@ -1,0 +1,3 @@
+mail:test@test.com
+kullanıcı adı:test1
+password:testtest
